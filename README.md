@@ -1,4 +1,7 @@
 # VIP-Billionaires
+This is the source code with below app.
+https://apps.apple.com/jp/app/vip-billionaires-social-chat/id1076103571?platform=iphone
+
 React Native &amp; Firebase
 
 ## Getting Started
