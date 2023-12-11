@@ -27,3 +27,5 @@ Or, if you prefer Android:
 ```
 yarn run android
 ```
+
+Please email to me for more questions. robinshao531@gmail.com
